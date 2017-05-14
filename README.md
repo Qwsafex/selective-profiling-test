@@ -1,2 +1,4 @@
-# selective-profiling-test
-Test task for JB Internship 2017
+# Test task for JB Internship 2017
+
+От способа сохранения в файл хочется расширяемость, поэтому был использован 
+встроенный механизм сериализации.
